@@ -1,5 +1,6 @@
 # Sentiment-analysis
-## This is my first pyhon program, sorry for the shitty format
+## This program consist of using the nltk library to create more synonyms and antonyms of a seed word to sentiment analysis a line of sentence.
+## This is my first pyhon program, sorry for the shitty format xd.
 ### install the nltk library
 ``` pip install nltk ```
 ### You can input a positive word at first an the program will return a bunch of synonyms as well as antonyms. (If the it returns "set()" means that the set is empty, try another positive word)
